@@ -10,10 +10,12 @@
 * Jupyter
 
 ## Techniques
-* EDA, Viz, t-tests, r-test, chi-square , student's
-* Regression
-* CHAID
-* Decision trees
+* Analytics : EDA, Viz, t-tests, r-test, chi-square , student's, univariate ,multi, ANCOVA, ANOVA, dimensional reduction ,principal component reduction
+* ML - classification & prediction
+* Regression, linear, SVM ,bayesian 
+* CHAID, Clustering , k-means, nearest-neighbours
+* Decision trees, random forests, bagging & boosting
+
 
 ## Resources
 * Wes McKinney book : https://www.safaribooksonline.com/library/view/python-for-data/9781491957653/ch03.html#set
