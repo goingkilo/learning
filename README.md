@@ -1,4 +1,7 @@
-# es_learning
+# Learning Elasticsearch
+.. following is the list of exam objectives for the elasticsearch certification exam
+https://training.elastic.co/exam/elastic-certified-engineer#objectives
+
 ## Installation and Configuration
 1. Deploy and start an Elasticsearch cluster that satisfies a given set of requirements
 1. Configure the nodes of a cluster to satisfy a given set of requirements
