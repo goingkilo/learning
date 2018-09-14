@@ -1,6 +1,6 @@
 
 ## Deep work
-* 
+* https://sivers.org/book/DeepWork
 
 ## Power
 * 
@@ -20,3 +20,6 @@
 
 ## Misc tech 
 * https://anvaka.github.io/greview/cracking-code-interview/1/
+
+##  The Subtle Art of Not Giving a Fuck - by Mark Manson
+* https://sivers.org/book/NotFuck
