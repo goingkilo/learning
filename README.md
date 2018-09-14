@@ -1,9 +1,9 @@
 # es_learning
 ## Installation and Configuration
-Deploy and start an Elasticsearch cluster that satisfies a given set of requirements
-Configure the nodes of a cluster to satisfy a given set of requirements
-Secure an Elasticsearch cluster using X-Pack Security
-Define role-based access control using X-Pack Security
+1. Deploy and start an Elasticsearch cluster that satisfies a given set of requirements
+1. Configure the nodes of a cluster to satisfy a given set of requirements
+1. Secure an Elasticsearch cluster using X-Pack Security
+1. Define role-based access control using X-Pack Security
 ## Indexing Data
 Define an index that satisfies a given set of requirements
 Perform index, create, read, update, and delete operations on the documents of an index
