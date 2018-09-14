@@ -43,3 +43,8 @@ https://training.elastic.co/exam/elastic-certified-engineer#objectives
 1. Backup and restore a cluster and/or specific indices
 1. Configure a cluster for use with a hot/warm architecture
 1. Configure a cluster for cross cluster search
+
+## Misc.
+### Projects
+### other
+
