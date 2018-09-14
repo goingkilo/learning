@@ -8,6 +8,7 @@
 ## Never split the difference
 * http://www.jordanpine.com/2018/06/the-best-book-on-negotiation.html 
 * https://www.slideshare.net/YanDavidErlich/never-split-the-difference-cheatsheet
+* https://www.youtube.com/watch?v=guZa7mQV1l0
 
 ## So good they can't ignore you 
 * https://sivers.org/book/SoGood
