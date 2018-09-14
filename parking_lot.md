@@ -17,6 +17,7 @@
 * monocle newspaper , blog aggregator
 * monocle fun - horoscope, iching, games, (+ websocket), gutenberg
 * monocle todo/gtd/tasks/logs/journals
+* monocle stock info, fundamental analyser, SIP calculator
 * markov sentence maker
 * clojure taxonomy ?
 * taxonomy-deals-ML/tree?
