@@ -11,12 +11,12 @@
 * Some bach
 * A/B framework
 * Affiliate inventory site
-* Friends & family facebook
+* Friends & family facebook, map friends nearby (see locstack)
 * Gifto, functiona, fashiona
 * buildEx -shared library of book
 * monocle newspaper , blog aggregator
 * monocle fun - horoscope, iching, games, (+ websocket), gutenberg
-* monocle todo/gtd/tasks/logs/journals
+* monocle todo/gtd/tasks/logs/journals, locstack, timestack
 * monocle stock info, fundamental analyser, SIP calculator
 * markov sentence maker
 * clojure taxonomy ?
