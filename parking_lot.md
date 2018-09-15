@@ -25,5 +25,9 @@
 * more on docker  
 * paper ?
 * blog article ?
+* heart rate data analysis
+* heart-beat
+* computer bach
+* remix tool
 
  
