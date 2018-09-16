@@ -32,3 +32,8 @@ Summary of components and functions
 
  notes:
  durable queues and topics ?
+
+ Fanout - one system/app/service pushing data to large number of other services in parallel. For one person's tweet to show up on a hundred user's timelines, you can either post that tweet to each of hundred timeline queues/caches, or have each of the hundred load the timeline by querying a single (sharded?) tweet table .Twitter uses combined
+ Latency = how late your response is.
+ Amazon - 100 ms = 1% decrease in sales, 1s slowdown leads to 16% customer dissatisfaction
+ Percentile : P50   - 50% of the requests have response time less than this number

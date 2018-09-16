@@ -68,3 +68,6 @@
 * Aiming for Correctness
 * Doing the Right Thing
 * Summary
+
+### Misc
+* https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka
