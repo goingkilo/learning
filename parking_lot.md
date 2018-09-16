@@ -18,6 +18,7 @@
 * monocle fun - horoscope, iching, games, (+ websocket), gutenberg
 * monocle todo/gtd/tasks/logs/journals, locstack, timestack
 * monocle stock info, fundamental analyser, SIP calculator
+    * see https://blogs.harvard.edu/philg/2018/09/14/google-throws-away-12-years-of-work-by-investors-portfolios-in-google-finance/
 * markov sentence maker
 * clojure taxonomy ?
 * taxonomy-deals-ML/tree?
