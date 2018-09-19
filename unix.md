@@ -27,3 +27,7 @@
 * Shell programming, sed ,awk 
 * Kernel compilation
 * Certification goals
+
+## Code projects
+* Brainf*ck interpreter and runtime
+* add functions
