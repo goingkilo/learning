@@ -31,3 +31,6 @@
 ## Code projects
 * Brainf*ck interpreter and runtime
 * add functions
+ 
+## read
+* https://github.com/cfenollosa/os-tutorial
