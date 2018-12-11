@@ -24,3 +24,5 @@
 * For reference _Coursera : https://www.coursera.org/specializations/jhu-data-science#courses
 * Udacity :
 * Quandl for data  :https://www.quandl.com/account/api
+* udemy kiril course - seems faster than portilla course
+
