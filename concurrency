@@ -1,0 +1,58 @@
+Guide to Concurrency for the Java Programming Language
+
+While many books provide canonical content on the topic, the authors aim to provide a readable-workable field guide to the constructs & utilities for concurrency in the Java programming language ecosystem, and the patterns of construction and usage thereof.
+
+Threads
+	runnable
+	thread
+		states
+	new stuff
+		future
+		promise
+		volatile
+	how locks work
+
+large number of threads
+	how many can you start
+	how to monitor and measure them
+	preference locks
+	deadlock
+		detection tools
+	jvm tweaks
+	gc tips if any	
+
+odd-bag of goodies
+	phaser
+	countdown latch
+	cyclic barriers
+
+thread safe data structures
+	hashtable vs hashmap
+	concurrenthashmap
+	blockingdequeue
+
+real world exercises
+	singleton
+	object pool
+
+real world code bases
+	-
+	-
+
+other worldly concepts
+	pthread
+	ruby
+	python
+	erlang/elixir/golang (ask mallikarjuna)
+
+
+References & Further Reading
+
+
+enterprise design patterns
+integration patterns
+java concurrency in practice
+
+java performance
+	gc, tuning, tools
+
