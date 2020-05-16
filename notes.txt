@@ -22,7 +22,7 @@ a pod is equivalent of a host or node.
 a deployment creates a pod and launches your applciation inside
 a service is a kubernetes object and maps service port to your ap pport
 so all your applications can run on 80, as long the services in the cluster have different ports
-
+see : https://kubernetes.io/docs/concepts/services-networking/connect-applications-service/
 
 what is a docker ?
 is an image containing os level libraries . 
@@ -42,3 +42,6 @@ ideally, a program should have least number of variables with arbitrary names. a
 communicates using domain names for its variables. This means not having reifications in your program. 
 That way, your program is transparent. The alternative is a noun and a verb for everything you do, 
 which is exemplified in Java. 
+
+setting up kubernetes clsuter with terraform
+https://www.terraform.io/docs/providers/kubernetes/guides/getting-started.html
