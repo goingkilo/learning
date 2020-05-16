@@ -1,0 +1,22 @@
+1. kubernetes
+  1.1 on aws
+2. spring-boot
+3. devices
+  3.1 envoy
+  3.2 redis
+  3.3 golang
+  3.4 grpc
+ 
+4. mysql
+5. kinesis
+  5.1 some sqs
+  5.2 dynamodb
+6. druid
+  6.1 elasticsearch
+  6.2 flink
+7. Okta
+  7.2 vault
+  7.3 JWT
+  7.4 opa
+  7.5 tpm
+ 
