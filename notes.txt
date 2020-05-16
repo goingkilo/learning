@@ -38,4 +38,7 @@ what is an emulator
 is a program that mimics the target architecture ,while running on a different (host) architecture
 right down to CPU level
 
-ideally, a program should have least number of variables with arbitrary names. a good program communicates using domain names for its variables. This means not having reifications in your program. That way, your program is transparent. The alternative is a noun and a verb for everything you do, which is exemplified in Java. 
+ideally, a program should have least number of variables with arbitrary names. a good program 
+communicates using domain names for its variables. This means not having reifications in your program. 
+That way, your program is transparent. The alternative is a noun and a verb for everything you do, 
+which is exemplified in Java. 
