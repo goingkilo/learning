@@ -2,6 +2,8 @@ what is terraform ?
 terraform is a tool (meaning script) which lets you provision resources ( ec2 instance, for example) using json 
 or proprietory language.
 
+terrafrom project has .tf files
+
 what does python glob.glob do ? 
 it does the same thing as listdir, i think
 
