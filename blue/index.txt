@@ -1,0 +1,20 @@
+notes during neale.
+
+1. project stack
+2. deeper per-topic notes
+
+a word on assignment and exploratory papers
+
+Assignment papers are used to capture succint and relevant information about a technology, process or event.
+I aim to write a lot of these . They would need to work as prep-notes as well as 'gist-of-the-matter' notes to refer to.
+for eg, a paper on terraform should  aim to exhaustively cover the behaviour of the tool, as well as scenarios where 
+they apply, and how they are used. A paper on development /deploy process might cover sequence of events  which happen typically,
+ and benefits and shortcomings, with perspective on how things happen elsewhere.
+ One benefit to tap here is that reading and summarising, in two steps respectively, is a powerful concentration and 
+ memory exercise.
+
+Exploratory papers aim to discover new things out of existing information. These can be scientific ,behavioural or 
+just conceptual.
+
+
+
