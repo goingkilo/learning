@@ -1,3 +1,41 @@
 what is terraform ?
 terraform is a tool (meaning script) which lets you provision resources ( ec2 instance, for example) using json 
 or proprietory language.
+
+what does python glob.glob do ? 
+it does the same thing as listdir, i think
+
+how to open a tarfile in python
+use tarfile.open
+
+what is a chart ? 
+it is a set of kubernetes deployments with some additional data
+
+what is a kubernetes deployment ?
+it consistents of dockers and additional manifests
+manifests include deployment, service, hba, secrets(?) etc yml files
+each is a kubernetes object
+
+what else do you need to know ?
+kubernetes have namespaces within which clusters reside
+a pod is equivalent of a host or node.
+a deployment creates a pod and launches your applciation inside
+a service is a kubernetes object and maps service port to your ap pport
+so all your applications can run on 80, as long the services in the cluster have different ports
+
+
+what is a docker ?
+is an image containing os level libraries . 
+you can run an ubuntu image on mac.
+
+what is a qemu
+it is an emulator
+
+what is a VM 
+it is an emulator
+
+what is an emulator
+is a program that mimics the target architecture ,while running on a different (host) architecture
+right down to CPU level
+
+ideally, a program should have least number of variables with arbitrary names. a good program communicates using domain names for its variables. This means not having reifications in your program. That way, your program is transparent. The alternative is a noun and a verb for everything you do, which is exemplified in Java. 
